@@ -1,1 +1,1 @@
-# object_detection_retin_net
+# object_detection_retina_net
